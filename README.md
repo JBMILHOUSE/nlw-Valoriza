@@ -1,6 +1,3 @@
-
-<h1 align="center"> Valoriza </h1>
-
 ## :bookmark: Projeto
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 

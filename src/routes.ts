@@ -31,4 +31,5 @@ router.get("/users/compliments/send", ensureAuthenticate, listUserSendCompliment
 router.get("/users/compliments/receiver", ensureAuthenticate, listUserReceiverComplimentsController.handle);
 router.get("/tags", ensureAuthenticate, listTagsController.handle);
 router.get("/users", ensureAuthenticate,listUsersController.handle);
+
 export { router };

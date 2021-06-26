@@ -15,5 +15,3 @@ class CreateUserController {
 }
 
 export { CreateUserController };
-
-//-> server -> controller -> service -> ...
